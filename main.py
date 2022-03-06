@@ -280,6 +280,5 @@ https://climate.nasa.gov/vital-signs/global-temperature/"""
   elif(message.content=="!stopglobal"):
     await message.channel.send(file=discord.File('Infographic1.png'))
     await message.channel.send('The credit for this goes to Planet of Love Co.')
-    
-client.run('Yourmother')
-#https://discord.com/api/oauth2/authorize?client_id=912932294921191465&permissions=8&scope=bot
+
+
